@@ -1,0 +1,9 @@
+name: base_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - xlsxwriter
+  - json
+  - bs4
+  - requests
